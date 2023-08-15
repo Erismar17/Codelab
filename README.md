@@ -9,3 +9,4 @@ In this branch we should create the proyect in Android Studio, called "Basics Co
 In this case we learn how to adjust the User Experience, in the page explains what is the material theme, and the text and surfaces, in the @Compose we add a text, surface and primary color. Also I learn how to use the modifier padding (in this case is 24.dp)
 
 ## How reuse composable elements
+If you have more components more nesting you´ll have. A composability element called "MyApp" must be created where it contains a greeting. 
