@@ -26,4 +26,4 @@ Here we only add a line of code write the limit of the columns for the list.
 In "how to animate your list" you can learn the different animations that can be done with low-level APIs, this code is only implemented in the Greeting function " var shouldShowOnboarding by rememberSaveable { mutableStateOf(true) }"
 
 # How to apply styling and themes to your app
-
+sapa malparida 
